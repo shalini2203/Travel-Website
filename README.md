@@ -9,6 +9,6 @@
 
 ## Live Demo
 
-https://sanjuli18.github.io/Travel-website/
+https://shalini2203.github.io/Travel-Website/
 
 ![travel-website](/preview.png)
